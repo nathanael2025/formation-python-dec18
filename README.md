@@ -1,6 +1,6 @@
 # Projet
 
-Données et notebooks pour la formation python pour la data sicence de @stat4decision animée par @EJakobowicz (septembre 2018).
+Données et notebooks pour la formation python pour la data sicence de @stat4decision animée par @EJakobowicz (décembre 2018).
 
 ## Comment utiliser les contenus ?
 
@@ -10,20 +10,23 @@ Pour utiliser les notebooks, veuillez installer Anaconda pour python 3.
 
 ## Organisation des notebooks
 
-[Introduction à python](/Notebooks/01_introduction_python.ipynb)
+[Introduction à python](/03_bases_python.ipynb)
 
-[Introduction à numpy](/Notebooks/02_numpy.ipynb)
+[Introduction à numpy](/04_numpy.ipynb)
 
-[La préparation des données](/Notebooks/03_pandas.ipynb)
+[Pandas et la manipulation des données](/05_pandas.ipynb)
 
-[La visualisation des données](/Notebooks/04_DataViz.ipynb)
+[La visualisation des données](/06_Data_visualisation_matplotlib_seaborn.ipynb)
 
-[Le machine learning](/Notebooks/05_machine_learning.ipynb)
+[La visualisation interactive des données](/06b_Visualisations_interactives.ipynb)
 
-[Les données textuelles](/Notebooks/06_text_mining.ipynb)
+[Le machine learning supervisé](/07a_Machine_learning_supervise.ipynb)
 
-[Le deep learning](/Notebooks/07_deep_learning.ipynb)
+[Le machine learning non supervisé](/07b_Machine_learning_non_supervise.ipynb)
 
+[NLP avec nltk](/08_nlp_with_nltk.ipynb)
+
+[NLP avec SpaCy](/08_nlp_avec_spacy.ipynb)
 
 ## Auteur
 
